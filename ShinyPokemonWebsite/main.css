@@ -28,7 +28,7 @@ td p{
     color: #FFF;
 }
 
-p#copy{
+p#copyright{
     color: black;
 }
 
@@ -47,7 +47,7 @@ td{
     background-color: #666;
 }
 
-.list{
+#list{
     
     border: 2px solid #AAA;
     background: rgba(05,05,05,0.75);

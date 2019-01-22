@@ -1,0 +1,16 @@
+{
+  "pokemon": [
+    {
+      "species": "Primeape",
+      "nickname": "Holly",
+      "Region": "Ultra-Moon",
+      "date": "5/31/2018"
+    },
+    {
+      "species": "Dusclops",
+      "nickname": "Sentinel",
+      "Region": "Ultra-Moon",
+      "date": "5/23/2018"
+    }
+  ]
+}
